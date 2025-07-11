@@ -11,6 +11,7 @@ This Flutter app demonstrates the use of a simple `NavigationRail` widget for si
 - The `destinations` property defines the icons and labels for destinations (Home and Settings).
 - The main content area displays a counter and a button on the Home page, and a simple text on the Settings page.
 
+
 ## How to Run
 1. Make sure you have [Flutter](https://flutter.dev/docs/get-started/install) installed.
 2. Clone this repository or copy the project files.
