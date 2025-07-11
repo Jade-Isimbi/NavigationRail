@@ -3,6 +3,9 @@
 ## Overview
 This Flutter app demonstrates the use of a simple `NavigationRail` widget for side navigation, it helps in switching between the 2 section of the app which are home and settings.
 
+## Screenshot
+The screenshot of the app is in the assets folder.
+
 ## How It Works
 - The app uses a `Scaffold` with a `Row` layout. The left side contains the `NavigationRail`, and the right side displays the main content.
 - `selectedIndex` shows which destination (Currently selected index) is selected. 
@@ -18,6 +21,7 @@ This Flutter app demonstrates the use of a simple `NavigationRail` widget for si
 3. Open a terminal in the project directory.
 4. Run `flutter pub get` to fetch dependencies.
 5. Run `flutter run` to launch the app on your preferred device or emulator.
+
 
 ---
 
