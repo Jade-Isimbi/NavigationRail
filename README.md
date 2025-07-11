@@ -8,11 +8,15 @@ The screenshot of the app is in the assets folder.
 
 ## How It Works
 - The app uses a `Scaffold` with a `Row` layout. The left side contains the `NavigationRail`, and the right side displays the main content.
+- The main content area displays a counter and a button on the Home page, and a simple text on the Settings page.
+  
+    ## These are the main attributes used in the app:
+  
 - `selectedIndex` shows which destination (Currently selected index) is selected. 
 - `onDestinationSelected` updates this index and triggers a UI update.
-- The `labelType` Determines how labels appear (none, selected, all). in this case the selected destination's label is shown.
+- The `labelType` Determines how labels appear (none, selected, all). In this case, the selected destination's label is shown.
 - The `destinations` property defines the icons and labels for destinations (Home and Settings).
-- The main content area displays a counter and a button on the Home page, and a simple text on the Settings page.
+  
 
 
 ## How to Run
